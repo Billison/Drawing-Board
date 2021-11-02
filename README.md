@@ -1,5 +1,5 @@
 # Drawing-Board
-A drawing board made in p5.js by Billy Mooney
+A drawing board made in p5.js by Moonz
 
 ### Code
 ```js
